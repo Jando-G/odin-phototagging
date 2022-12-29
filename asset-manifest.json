@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/odin-phototagging/static/css/main.f3b5cab2.css",
-    "main.js": "/odin-phototagging/static/js/main.b8c0dcb3.js",
+    "main.js": "/odin-phototagging/static/js/main.639e5dff.js",
     "index.html": "/odin-phototagging/index.html",
     "main.f3b5cab2.css.map": "/odin-phototagging/static/css/main.f3b5cab2.css.map",
-    "main.b8c0dcb3.js.map": "/odin-phototagging/static/js/main.b8c0dcb3.js.map"
+    "main.639e5dff.js.map": "/odin-phototagging/static/js/main.639e5dff.js.map"
   },
   "entrypoints": [
     "static/css/main.f3b5cab2.css",
-    "static/js/main.b8c0dcb3.js"
+    "static/js/main.639e5dff.js"
   ]
 }
